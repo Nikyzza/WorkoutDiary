@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56634268591",
+    "project_id": "edzesnaplo-60d31",
+    "storage_bucket": "edzesnaplo-60d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56634268591:android:01387f749af42141ce2d5a",
+        "android_client_info": {
+          "package_name": "com.example.edzesnaplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56634268591-qe1l4p342vb414d6u8gstvpq6fes97jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edzesnaplo",
+            "certificate_hash": "75ee0796b462293fe3a64c87d7e34910f60486d0"
+          }
+        },
+        {
+          "client_id": "56634268591-3qfme8flhe3oivtsaneh7kl8dpu9jupp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDApA7CyZTQokZqb6rRiAHjHxmJFiKP2vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56634268591-3qfme8flhe3oivtsaneh7kl8dpu9jupp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
